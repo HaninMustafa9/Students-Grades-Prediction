@@ -1,4 +1,4 @@
-# Waiter Tips Prediction
+# Students Grades Prediction
 
 ## Project Overview
 
